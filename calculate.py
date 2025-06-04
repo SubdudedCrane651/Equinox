@@ -3,7 +3,7 @@ from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
 # Open the existing .xlsm file
-file_path = r'C:\\Users\\rchrd\\Documents\\Richard\\Electricity for Equinox.xlsm'
+file_path = r'F:\\Richard\\Electricity for Equinox.xlsm'
 wb = xw.Book(file_path)
 
 # Select the sheet you want to work with (replace 'Sheet1' with your actual sheet name)
